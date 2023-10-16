@@ -1,35 +1,34 @@
-### Hi there 👋
+# Hi there 👋
 
 My name is Paula, I'm from Argentina and I'm a FullStack Developer
 
 Passionate about technology with a positive environmental and social impact.
-
 Background in digital and brand marketing.
 
 * Currently working as a freelacer for my own brand😄
-* You can view my portfolio and services in my [website](https://campospaula.myportfolio.com)
+* ***You can view my portfolio and services in my [website](https://campospaula.myportfolio.com)***
 
 ## Skills
 
-#Database
+###Database
 
 * SQL | PostgreSQL | MySQL Workbench
 * ORM (Object-Relational Mapping)
 * Google Ads | Meta Ads
 
-#BackEnd
+###BackEnd
 
 * UML | Java | Spring Boot | Maven
 * Spring MVC, Spring Data | Phyton
 * Data Access Object (DAO) | Log4j | Junit
 
-#FrontEnd
+###FrontEnd
 
 * HTML5 | CSS3 | React | Javascript | SASS | Bootstrap
 * Flexbox | Figma | UX UI | Trello | Jira 
 * Agile, Scrum & Remote Work Methods
 
-#Infrastructure
+###Infrastructure
 
 * Terraform | Ansible | Cloud Formation
 * CI / CD (Jenkins) | Monitoring
@@ -38,7 +37,7 @@ Background in digital and brand marketing.
 * Containers (Docker)
 * Scripting (Bash, PowerShell)
 
-#QA
+###QA
 
 * Requirements Document Analysis
 * Analysis, Design, and Implementation of Test Cases
