@@ -16,13 +16,13 @@ Background in digital and brand marketing.
 * ORM (Object-Relational Mapping)
 * Google Ads | Meta Ads
 
-### BackEnd
+### Back-End
 
 * UML | Java | Spring Boot | Maven
 * Spring MVC, Spring Data | Phyton
 * Data Access Object (DAO) | Log4j | Junit
 
-### FrontEnd
+### Front-End
 
 * HTML5 | CSS3 | React | Javascript | SASS | Bootstrap
 * Flexbox | Figma | UX UI | Trello | Jira 
