@@ -3,6 +3,7 @@
 My name is Paula, I'm from Argentina and I'm a FullStack Developer
 
 Passionate about technology with a positive environmental and social impact.
+
 Background in digital and brand marketing.
 
 * Currently working as a freelacer for my own brand😄
@@ -10,11 +11,42 @@ Background in digital and brand marketing.
 
 ## Skills
 
-* Java | Spring Boot | SQL | PostgreSQL | MySQL Workbench
+#Database
+
+* SQL | PostgreSQL | MySQL Workbench
+* ORM (Object-Relational Mapping)
+* Google Ads | Meta Ads
+
+#BackEnd
+
+* UML | Java | Spring Boot | Maven
+* Spring MVC, Spring Data | Phyton
+* Data Access Object (DAO) | Log4j | Junit
+
+#FrontEnd
+
 * HTML5 | CSS3 | React | Javascript | SASS | Bootstrap
-* Cloud Computing AWS | Vagrant | ShellScripting | Docker
-* Virtual Box: Ubuntu | Figma | Trello | Jira 
+* Flexbox | Figma | UX UI | Trello | Jira 
 * Agile, Scrum & Remote Work Methods
+
+#Infrastructure
+
+* Terraform | Ansible | Cloud Formation
+* CI / CD (Jenkins) | Monitoring
+* Cloud Computing (AWS)
+* Virtualization (Virtualbox, Vagrant, Ubuntu)
+* Containers (Docker)
+* Scripting (Bash, PowerShell)
+
+#QA
+
+* Requirements Document Analysis
+* Analysis, Design, and Implementation of Test Cases
+* Functional, Smoke, and Regression Testing
+* Web Service Testing (Postman)
+* Black Box Testing and White Box Testing
+* Debugging
+* Unit Testing (Javascript)
 
 ## Contact
 
