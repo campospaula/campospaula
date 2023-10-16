@@ -1,8 +1,9 @@
 # Hi there 👋
 
-My name is Paula, I'm from Argentina and I'm a FullStack Developer!
+My name is Paula, I'm a FullStack Developer from Argentina!
 
 Passionate about technology with a positive social impact.
+
 Background in digital and brand marketing.
 
 * Currently working as a freelacer for my own brand😄
