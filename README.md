@@ -4,7 +4,7 @@ My name is Paula, I'm a FullStack Developer from Argentina!
 
 Passionate about technology with a positive social impact.
 
-Background in digital and brand marketing.
+Background in digital marketing, Meta Ads & Google Ads.
 
 * Currently working as a freelacer for my own brand😄
 * ***You can view my portfolio and services in my [website](https://campospaula.myportfolio.com)***
