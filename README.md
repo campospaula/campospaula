@@ -2,7 +2,7 @@
 
 My name is Paula, I'm a FullStack Developer from Argentina!
 
-Passionate about technology with a positive social impact.
+Passionate about technology & business.
 
 Background in digital marketing, Meta Ads & Google Ads.
 
