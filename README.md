@@ -7,7 +7,7 @@ Passionate about technology & business.
 Background in digital marketing, Meta Ads & Google Ads.
 
 * Currently working as a freelacer for my own brand😄
-* ***You can view my portfolio and services in my [website](https://campospaula.myportfolio.com)***
+* ***You can view my portfolio and services in my [website](https://betobestudio.com/)***
 
 ## Skills
 
