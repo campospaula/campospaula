@@ -50,7 +50,7 @@ Background in digital marketing, Meta Ads & Google Ads.
 
 ## Contact
 
-Find all of my socials and resume in my [website](https://campospaula.myportfolio.com)
+Find all of my socials and resume in my [website](https://betobestudio.com/)
 
 - 📫 Reach me at **campospaulaagustina@gmail.com**
 - ⚡ Fun fact: I'm also a lawyer! I studied at UBA and graduated in 2019
